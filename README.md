@@ -1,28 +1,30 @@
+![233505817-18d55dee-2a30-43b7-aa69-b1c3fa59a329](https://github.com/user-attachments/assets/78c309f7-1605-447d-8c6b-f08bf6d31fc8)
+
 **#Customer Segmentation using Unsupervised Learning**
 
 
 ![Segmentatie](https://github.com/user-attachments/assets/db19c3ee-3c1f-4ec0-8358-552c95e84791)
 
-☀️ Objective
+☀️ **Objective**
 This project utilizes unsupervised learning techniques to segment customers based on their purchasing behavior. By grouping customers with similar characteristics together, businesses can tailor their marketing strategies and offerings to specific customer segments, thereby maximizing customer satisfaction and profitability.
 
 
-☀️What is Customer Segmentation?
+☀️**What is Customer Segmentation?**
 
 Customer segmentation is the practice of categorizing customers into distinct groups based on shared characteristics, enabling companies to target and tailor their marketing strategies to each group effectively. Customers are typically segmented based on their similarities in behavior, preferences, and purchasing habits.
 
-☀️Introduction:
+☀️**Introduction:**
 
 The main task of Clustering is to identify natural groups within an unlabeled dataset. This means that clustering is an Unsupervised Machine Learning task, which is important in many scientific, engineering, and business domains. Some well-known applications of clustering include:
 
-Customer segmentation for efficient marketing
+* Customer segmentation for efficient marketing
 
-Image segmentation for computer vision
+* Image segmentation for computer vision
 
-Document clustering for information retrieval
+* Document clustering for information retrieval
 
 
-☀️Feature Description
+☀️**Feature Description**
 
 RFM is one of the most widely used methods to perform customer segmentation due to its simplicity and availability. On top of that, the report takes other behavrioul data into consideration to better identify customer groups.
 
@@ -42,7 +44,7 @@ Count of unique product id: The count of unique product an individual has bought
 
 
 
-☀️Dependencies
+☀️**Dependencies**
 
 Python (>= 3.6)
 
